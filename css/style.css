@@ -21,10 +21,9 @@ main {
 }
 
 footer {
-    background-color: brown;
+    height: 50px;
+    background-color: #7C7C7C;
 }
-
-
 
 nav {
     display: flex;
@@ -77,7 +76,3 @@ button:hover {
   }
 
 
-footer {
-    height: 50px;
-    background-color: #7C7C7C;
-}
