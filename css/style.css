@@ -28,6 +28,8 @@ footer {
 nav {
     display: flex;
     width: 760px;
+    justify-content: center;
+    align-items: center;
 }
 
 nav a {
