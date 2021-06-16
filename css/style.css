@@ -64,12 +64,13 @@ section:nth-child(2) {
 }
 
 button {
-    width: 40%;
+    width: 30%;
     background-color: black;
-    color: white;
+    color: #7C7C7C;
     height: 30px;
-    margin-top: 25px;
+    margin-top: 8px;
     transition: all .5s ease-in-out;
+    font-size: medium;
 }
 button:hover {
     background-color: #fff;
@@ -77,4 +78,8 @@ button:hover {
     color: #000;
   }
 
+b {
+    font-weight: bold;
+    font-size: large;
+}
 
